@@ -1,7 +1,7 @@
 # 💫 About Me:
 Backend/infra engineer working mainly in **Python** and **Elixir**, running most of it on **AWS**. I contribute to Python open source repos, and support Django and FastAPI projects. Currently poking around learning Go and Rust on the side.
 
-AWS Certified Solutions Architect – Associate (expired)
+AWS Certified Solutions Architect – Associate
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -25,8 +25,8 @@ AWS Certified Solutions Architect – Associate (expired)
 ---
 [![](https://komarev.com/ghpvc/?username=rmad17&icon=1&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/souravbasu) 
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/souravbasu) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
