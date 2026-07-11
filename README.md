@@ -22,7 +22,6 @@ AWS Certified Solutions Architect – Associate
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
 [![](https://komarev.com/ghpvc/?username=rmad17&icon=1&color=2)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
