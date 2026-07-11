@@ -17,9 +17,7 @@ AWS Certified Solutions Architect – Associate (expired)
 ![](https://github-profile-trophy.vercel.app/?username=rmad17&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🎖️ GitHub Achievements
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" alt="Pull Shark x3" />
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO" />
-<img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" height="64" alt="Arctic Code Vault Contributor" />
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" alt="Pull Shark x3" /> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO" /> <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" height="64" alt="Arctic Code Vault Contributor" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
