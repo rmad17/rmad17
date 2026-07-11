@@ -13,9 +13,6 @@ AWS Certified Solutions Architect – Associate
 ![](https://streak-stats.demolab.com/?user=rmad17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rmad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=rmad17.github.io,wikip-android,khata-fe,trip-planner-fe,forum,hacker-news-vue,todolist-angular,angular-yc-news,yc-news,mycv,designouse,jekyll-site,rmad.in,Pigeon,Matchstick)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rmad17&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🎖️ GitHub Achievements
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" alt="Pull Shark x3" /> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO" /> <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" height="64" alt="Arctic Code Vault Contributor" />
 
